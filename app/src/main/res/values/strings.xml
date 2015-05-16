@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApplication5M</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name_text_view">Type Your Name:</string>
+    <string name="send_user_name_button">Send Message</string>
+    <string name="callback_message">calling the name was :</string>
+    <string name="main_user_name_text">the user name is</string>
+    <string name="main_get_user_name_button">GetUserName</string>
+</resources>
